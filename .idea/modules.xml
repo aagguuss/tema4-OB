@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ForOb/ForOb.iml" filepath="$PROJECT_DIR$/ForOb/ForOb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IfOb/IfOb.iml" filepath="$PROJECT_DIR$/IfOb/IfOb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OBtema4.iml" filepath="$PROJECT_DIR$/.idea/OBtema4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhileOb/WhileOb.iml" filepath="$PROJECT_DIR$/WhileOb/WhileOb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dowhileOb/dowhileOb.iml" filepath="$PROJECT_DIR$/dowhileOb/dowhileOb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch case/switch case.iml" filepath="$PROJECT_DIR$/switch case/switch case.iml" />
+    </modules>
+  </component>
+</project>
